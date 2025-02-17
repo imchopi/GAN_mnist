@@ -32,7 +32,7 @@ Para ejecutar el código, necesitas las siguientes dependencias:
 Recomendado hacer un env:
 ```bash
 python -m venv gan_mnist
-venv/Scripts/activate
+gan_mnist/Scripts/activate
 ```
 
 Puedes instalar las dependencias usando el siguiente comando:
